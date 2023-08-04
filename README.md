@@ -1,9 +1,7 @@
-![Web Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/324407468_646399157277829_1784064498552523894_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=r9MPJ1sJjf4AX9nrxs4&_nc_ht=scontent.fdac24-1.fna&oh=00_AfBnIZxNX1JnWYTOGAbE3AkfecyNeanaNeiKoPgwJBFvtw&oe=63BDAAFA)
-### Hi there 👋, I'm Md Fayzullah Aman
+### Assalamu Alaikum, Hi there 👋, I'm Md Fayzullah Aman
 ##### Web Developer
 
-Assalamu Alaikum.
-Nice to meet you! I have 5 years of experience as computer operator. Recently I completed web development course from IsDB-BISEW and gained experience in web development. Now I am working in web design and development. Languages I know are HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, WordPress, Angular, React js, CodeIgniter, Laravel and Vue. I am very interested in sharing my skills in web development to the public. My passion is creating and developing a professional, beautiful website. I am committed to maintain a professional relationship with my clients and provide efficient and reliable service according to their needs. Contact me now to discuss your next project.
+Nice to meet you! I'm a web developer. Languages I know are HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, WordPress, Angular, React js, CodeIgniter, Laravel and Vue. I am very interested in sharing my skills in web development to the public. My passion is creating and developing a professional, beautiful website. I am committed to maintain a professional relationship with my clients and provide efficient and reliable service according to their needs. Contact me now to discuss your next project.
 
 Skills: Laravel / CodeIgniter / React js / Angular / WordPress / MySQL / PHP / jQuery / JavaScript / Bootstrap / CSS / HTML
 
