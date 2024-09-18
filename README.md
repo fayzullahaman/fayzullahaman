@@ -3,7 +3,7 @@
 
 Nice to meet you! I'm a web developer. Languages I know are HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, WordPress, Angular, React js, CodeIgniter, Laravel and Vue. I am very interested in sharing my skills in web development to the public. My passion is creating and developing a professional, beautiful website. I am committed to maintain a professional relationship with my clients and provide efficient and reliable service according to their needs. Contact me now to discuss your next project.
 
-Skills: Laravel / CodeIgniter / React js / Angular / WordPress / MySQL / PHP / jQuery / JavaScript / Bootstrap / CSS / HTML
+Skills: Laravel / React js / WordPress / MySQL / PHP / jQuery / JavaScript / Bootstrap
 
 - 🔭 I’m currently working on Web developing project 
 - 🌱 I’m currently learning JavaScript / Laravel / Web Developing 
